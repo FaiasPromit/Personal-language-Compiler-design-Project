@@ -1,0 +1,107 @@
+
+print id_a under var, storing in the 1 position of the table table
+print id_c under id1 cm var, storing in the 2 position of the table table
+print id_b under id1 cm var, storing in the 3 position of the table table
+id_b is already declared
+
+id_c is already declared
+
+print id_f under id1 cm var, storing in the 4 position of the table table
+valid declaration
+
+(id_a) Value of the variable: 8	
+
+(id_b) Value of the variable: 4	
+id_ad not declared yet
+
+(id_c) Value of the variable: 2	
+
+(id_f) Value of the variable: 6	
+Variable value: 6
+value of expression: 46656
+Variable value: 6 inc: 7
+
+value of expression: 7
+Variable value: 6
+value of expression: 720
+
+value of expression: 13
+
+value of expression: 23
+
+condition value zero in IF block
+
+value of expression in IF: 24
+
+value of expression in ELSE: 13
+
+value of expression in ELIF: 7
+ aff: 1
+
+value of expression middle IF: 77
+
+value of expression in first IF: 15
+
+value of expression middle ELSE: 10
+
+value of expression in first IF: 15
+
+print id_faias under var, storing in the 5 position of the table table
+print id_satter under id1 cm var, storing in the 6 position of the table table
+valid declaration
+
+(id_satter) Value of the variable: 101	
+Variable value: 101
+(id_faias) Value of the variable: 101	
+
+print id_new under var, storing in the 7 position of the table table
+valid declaration
+
+(id_new) Value of the variable: -22	
+
+for loop statement for 0
+for loop statement for 1
+for loop statement for 2
+for loop statement for 3
+for loop statement for 4
+for loop statement for 5
+for loop statement for 6
+for loop statement for 7
+
+While LOOP: 5 6 
+value of the expression: 6
+While LOOP: 5 4 
+value of the expression: 6
+While LOOP: 5 6 7 8 9 10 11 
+value of the expression: 6
+While LOOP: 5 4 3 
+value of the expression: 6
+
+Result in default Value is :  120
+SWITCH CASE compiled successfully !!
+
+single line comment
+multiple_line_comment
+
+Case No : 5  and Result :  5
+SWITCH CASE compiled successfully !!
+
+
+print id_abc under var, storing in the 8 position of the table table
+valid declaration
+
+(id_abc) Value of the variable: 21	
+CUSTOM Function Declared
+
+variable table and their values 
+ id_a 	8
+ id_c 	2
+ id_b 	4
+ id_f 	6
+ id_faias 	101
+ id_satter 	101
+ id_new 	-22
+ id_abc 	21
+ (null) 	0
+ 
+Successful compilation of your program!! Congratulations !! 
